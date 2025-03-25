@@ -1,4 +1,6 @@
 import qi
+from core.behavior import Behavior
+from core.application import Application
 
 
 def main() -> None:
